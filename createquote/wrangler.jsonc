@@ -1,0 +1,23 @@
+{
+  "name": "createquote",
+  "compatibility_date": "2026-02-03",
+  "main": "createquote/src/index.js",
+   "vars": {
+    "N8N_WEBHOOK_URL": "https://n8n.geqbus-pnw.com/webhook/d04ca323-482c-4f06-a210-d8b448b7788b"
+  },
+  "observability": {
+    "enabled": false,
+    "head_sampling_rate": 1,
+    "logs": {
+      "enabled": true,
+      "head_sampling_rate": 1,
+      "persist": true,
+      "invocation_logs": true
+    },
+    "traces": {
+      "enabled": false,
+      "persist": true,
+      "head_sampling_rate": 1
+    }
+  }
+}
