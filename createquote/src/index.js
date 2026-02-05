@@ -36,7 +36,7 @@ ctx.waitUntil((async () => {
     return new Response(
       JSON.stringify({
         response_type: "ephemeral",
-        text: "Looking up opps…"
+        text: "Creating quote..."
       }),
       { headers: { "Content-Type": "application/json" } }
     );
