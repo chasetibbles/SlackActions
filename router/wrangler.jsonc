@@ -1,9 +1,9 @@
 {
-  "name": "createquote",
-  "compatibility_date": "2026-02-03",
+  "name": "router",
+  "compatibility_date": "2026-02-14",
   "main": "src/index.js",
    "vars": {
-    "N8N_WEBHOOK_URL": "https://n8n.geqbus-pnw.com/webhook/d04ca323-482c-4f06-a210-d8b448b7788b"
+    "INTERNAL_SECRET": "8f9a3b0c1e5d7a2c4f6b8d9e0a1c3f5e7d9b0c2a4e6f8d1c3b5a7e9f0d2c4b6a"
   },
   "observability": {
     "enabled": false,
