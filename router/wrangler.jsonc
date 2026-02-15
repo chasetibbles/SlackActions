@@ -1,6 +1,6 @@
 {
   "name": "router",
-  "compatibility_date": "2026-02-14",
+  "compatibility_date": "2026-02-13",
   "main": "src/index.js",
    "vars": {
     "INTERNAL_SECRET": "8f9a3b0c1e5d7a2c4f6b8d9e0a1c3f5e7d9b0c2a4e6f8d1c3b5a7e9f0d2c4b6a"
